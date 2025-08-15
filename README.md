@@ -1,0 +1,1 @@
+Confetti Kittens is a game I made using ChatGPT and some sound files I found online. You run around the maze, collecting eggs and finding hidden gems. Once the eggs hatch, you collect all the kittens and move onto the next level.
